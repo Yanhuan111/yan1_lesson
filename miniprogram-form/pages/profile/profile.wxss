@@ -1,0 +1,9 @@
+page{
+    background-color: skyblue;
+    line-height: 1.6;
+}
+.section{
+    padding: 0 15px;
+    margin-top: 10px;
+
+}
